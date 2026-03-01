@@ -707,7 +707,7 @@ Some silences, he had learned, you simply accept.
 ## First, a note by Richard Pham 
 
 The black market is where some people go to make extra money. The black market is where questionable actions are encouraged to be taken, because 
-the arena of the black market is already subject to heavy scrutiny already. What is the black market, at its core, besides from the various activities 
+the arena of the black market is already subject to heavy scrutiny. What is the black market, at its core, besides from the various activities 
 and goods that comprise this relatively smaller but impactful sector of economic activity? The black market is where the commerce goes because the 
 law of leaders and representatives said, "this activity and these goods do not have a place for just anyone. It's not entirely about the money. It's 
 also about the associated malice". 
